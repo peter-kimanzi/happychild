@@ -2455,7 +2455,7 @@ textarea.form-control {
 .form-control.is-valid {
   border-color: #28a745;
   padding-right: calc(1.5em + 0.75rem);
-  background-image: url("../images/9.jfif");
+  background-image: url("../images/9.jpg");
   background-repeat: no-repeat;
   background-position: right calc(0.375em + 0.1875rem) center;
   background-size: calc(0.75em + 0.375rem) calc(0.75em + 0.375rem);
@@ -14761,7 +14761,7 @@ nav ul li a:hover {
 }
 
 .w3l-main-slider .banner-view {
-  background: url(../images/5.jfif) no-repeat center;
+  background: url(../images/5.jpg) no-repeat center;
   background-size: cover;
   min-height: calc(100vh - 30px);
   position: relative;
@@ -14771,17 +14771,17 @@ nav ul li a:hover {
 }
 
 .w3l-main-slider .banner-top1 {
-  background: url(../images/7.jfif) no-repeat center;
+  background: url(../images/7.jpg) no-repeat center;
   background-size: cover;
 }
 
 .w3l-main-slider .banner-top2 {
-  background: url(../images/4.jfif) no-repeat center;
+  background: url(../images/4.jpg) no-repeat center;
   background-size: cover;
 }
 
 .w3l-main-slider .banner-top3 {
-  background: url(../images/11.jfif) no-repeat center;
+  background: url(../images/11.jpg) no-repeat center;
   background-size: cover;
 }
 
@@ -16018,7 +16018,7 @@ button.owl-next {
 
 .w3l-specification-6 .specification-6-mian {
   background: #fff;
-  background: url(../images/8.jfif) no-repeat top;
+  background: url(../images/8.jpg) no-repeat top;
   background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -16284,7 +16284,7 @@ button.owl-next {
 }
 
 .ch-img-4 {
-  background-image: url(../images/img4.jpg);
+  background-image: url(../images/14.jpg);
 }
 
 .ch-info h4 {
@@ -18250,7 +18250,7 @@ button.owl-next {
 
 /*--//contact--*/
 .inner-banner {
-  background: url(../images/11.jfif) no-repeat center;
+  background: url(../images/11.jpg) no-repeat center;
   background-size: cover;
   min-height: 200px;
   position: relative;
